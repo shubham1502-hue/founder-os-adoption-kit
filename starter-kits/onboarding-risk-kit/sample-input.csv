@@ -1,0 +1,6 @@
+customer_name,plan_value,onboarding_stage,last_touch_date,activation_status,blocker,owner,risk_level,next_action
+Omega Learning,250000,Setup Pending,2026-05-05,Not Activated,Customer has not completed setup,CS Owner,Medium,Send activation check-in
+Delta Labs,400000,Training Pending,2026-05-03,Partially Activated,Admin team unavailable,CS Owner,High,Schedule training
+Nova SaaS,200000,Kickoff Done,2026-05-09,On Track,None,CS Owner,Low,Confirm next milestone
+BrightPath,180000,Data Import Pending,2026-05-02,Not Activated,Import errors,Ops Owner,High,Escalate technical blocker
+Learnly,150000,User Invites Pending,2026-05-06,Partial,Low invite completion,CS Owner,Medium,Send invite reminder

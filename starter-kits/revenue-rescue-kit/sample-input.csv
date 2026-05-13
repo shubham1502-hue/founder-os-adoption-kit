@@ -1,0 +1,6 @@
+company_name,contact_name,deal_stage,deal_value,last_activity_date,next_step,owner,risk_level,notes
+Gamma EdTech,Kunal Shah,Proposal Sent,600000,2026-05-01,Ask for decision timeline,Founder,High,Proposal silent for 10 days
+Alpha AI,Rohan Mehta,Warm Lead,300000,2026-05-08,Send RevOps automation follow-up,Founder,High,Interested but no next meeting
+Delta Labs,Priya Nair,Discovery Done,400000,2026-05-03,Send case study,Founder,Medium,Asked for proof
+Omega Learning,CS Owner,Negotiation,250000,2026-05-05,Confirm procurement blocker,Founder,Medium,Pricing concern
+Nova SaaS,Ananya Rao,Demo Scheduled,200000,2026-05-09,Confirm demo agenda,Founder,Low,Demo next week

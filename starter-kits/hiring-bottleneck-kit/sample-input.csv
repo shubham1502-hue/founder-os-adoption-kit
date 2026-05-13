@@ -1,0 +1,6 @@
+role_name,candidate_name,current_stage,days_in_stage,score,concern,next_action,owner,urgency
+Founder Office Operator,Candidate A,First Round Done,8,8,No follow-up scheduled,Schedule trial task,Founder,High
+Growth Ops Analyst,Candidate B,Screening,6,7,Unclear analytics depth,Ask for portfolio proof,Founder,Medium
+RevOps Associate,Candidate C,Trial Task,5,9,Waiting review,Review submission,Founder,High
+Customer Success Lead,Candidate D,Reference Check,4,8,References pending,Send reference email,Founder,Medium
+Product Ops Analyst,Candidate E,New Applicant,2,6,Weak domain fit,Decide reject or hold,Founder,Low

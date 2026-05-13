@@ -1,0 +1,6 @@
+area,metric,current_value,previous_value,status,owner,blocker,next_action
+Revenue,Pipeline value,1500000,1200000,Improving,Founder,None,Follow up stuck proposals
+GTM,Lead-to-demo conversion,12%,18%,Declining,Founder,Channel quality issue,Review source-level conversion
+Customer Success,Onboarding completion,70%,85%,Declining,CS Owner,Customer setup delay,Create activation queue
+Product,Feedback themes,8,5,Increasing,Product Owner,Reporting requests rising,Triage roadmap asks
+Hiring,Open roles,3,3,Stuck,Founder,Candidate follow-up delay,Move 2 candidates forward
