@@ -7,6 +7,7 @@
 3. Investor update is due
 4. Customers are stuck before activation
 5. Hiring is stuck
+6. Founder visibility is inconsistent
 
 ## What to do next
 
@@ -54,5 +55,14 @@ Hiring is stuck:
 - Paste into the founder prompt.
 - Use the sample output format.
 - Run the action in the next founder review.
+
+Founder visibility is inconsistent:
+
+- Open [Founder Visibility OS](https://github.com/shubham1502-hue/founder-visibility-os).
+- Copy `templates/copy_this_into_sheets.md`.
+- Fill 10 founder POV rows.
+- Map 5 proof-of-work assets to content angles.
+- Track one week of visibility attribution.
+- Use the weekly review to decide what to repeat, kill, or sharpen.
 
 Do not start with n8n. Use the manual version first. Automate only after the manual workflow is useful.

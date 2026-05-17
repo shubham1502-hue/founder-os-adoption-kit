@@ -6,7 +6,7 @@ This guide is for Founder Office, BizOps, RevOps, and startup operators helping 
 
 - Start with one problem.
 - Use synthetic data first.
-- Keep real company data in private tools.
+- Keep private company records in private tools.
 - Do not introduce automation before the founder trusts the output.
 - Turn every output into an owner, action, and deadline.
 

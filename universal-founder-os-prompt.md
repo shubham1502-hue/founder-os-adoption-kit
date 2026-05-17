@@ -42,6 +42,6 @@ Constraints:
 
 - Use one problem at a time.
 - Use sample data first.
-- Keep real company data in a private workspace.
+- Keep private company records in a private workspace.
 - Ask for a concise output, not a long strategy memo.
 - Review the answer before assigning work.

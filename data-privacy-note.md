@@ -4,7 +4,7 @@ This repo is for operating design, not public data storage.
 
 Do not put customer, prospect, employee, investor, borrower, merchant, payment, or internal company data into public forks.
 
-Use private copies for real company data.
+Use private copies for company records.
 
 Use synthetic examples in public repos.
 

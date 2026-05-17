@@ -20,4 +20,4 @@ Paste the table into [founder-prompt.md](founder-prompt.md).
 
 Read the high-risk accounts and assign owner follow-up.
 
-Keep real customer data in a private workspace.
+Keep private customer records in a private workspace.
